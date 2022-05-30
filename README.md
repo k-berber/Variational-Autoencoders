@@ -1,0 +1,2 @@
+# Variational-Autoencoders
+In this assignment you will implement autoencoder (AE), variational autoencoder (VAE), conditional variational autoencoder (CVAE) and a simple feed-forward neural network (NN). You will train these models on MNIST dataset, compare the results and make some conclusions about the comparison and about each model separately. The conclusions are mandatory.   In this assignment the use of torch.distributions, torch.logsumexp and other standard libraries with distributions density, reparametrization trick and KL-divergence is prohibited.
